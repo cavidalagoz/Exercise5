@@ -1,0 +1,29 @@
+.bg{
+    background-color: #000;
+}
+
+
+
+.text{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    color: white;
+}
+
+
+.big{
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+
+.button{
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+}
+
+ 
